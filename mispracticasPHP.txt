@@ -1,2 +1,5 @@
 creamos muchos porogramas de PHP pero los importantes son 
-cuando nos mostraron las bariables 
+cuando nos mostraron las bariables de PHP
+tambien nos mostraron la estructura de las condiciones simples 
+y las estructuras repetitivas 
+tambien las arrays y como agregar elemenos dev arrayas 
